@@ -1,2 +1,2 @@
-#!/bin/bash 
-mw [[ :upper: ]]* /tmp/u
+#!/bin/bash
+mw [[:upper:]]* /tmp/u
